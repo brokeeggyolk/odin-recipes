@@ -4,6 +4,11 @@ h1 {
     font-size: 40px;
 }
 
+h2 {
+    font-family:"courier new", monospace;
+    font-weight: bolder;
+}
+
 .homeintro {
     font-family: "courier new", monospace;
     text-align: center;
@@ -14,13 +19,13 @@ h1 {
 }
 
 .aglioimage {
-    text-align: right;
+    text-align: center;
   
 }
 
 .aglioimage img {
     height: auto;
-    width: 400px;
+    width: 1000px;
 }
 
 .recipelist a {
